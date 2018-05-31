@@ -7,7 +7,7 @@ package entity;
 
 /**
  *
- * @author Le Hoang Anh
+ * @author Le Van Toan
  */
 public class App {
 

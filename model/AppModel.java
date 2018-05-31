@@ -13,7 +13,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Le Hoang Anh
+ * @author Le Van Toan
  */
 public class AppModel {
 
